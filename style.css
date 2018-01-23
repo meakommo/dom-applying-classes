@@ -24,6 +24,9 @@ div.green {
   background-color: green;
 }
 
+div.red {
+  background-color: red;
+}
 .invisible {
   display: none;
 }
